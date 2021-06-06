@@ -1,0 +1,208 @@
+button::-moz-focus-inner,
+input::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+body{
+    background-image: url("../img/background-triangulos.jpeg");
+}
+
+
+/*INICIO DA PARTE ESQUERDA DO FORMULARIO*/
+#one{
+   
+    background-color: #66CDAA;
+    max-width: 370px;
+    padding: 20px;
+    border-radius: 5px;
+    
+  }
+  h6{
+      color: white;
+      font-family: 'Signika Negative', sans-serif;
+
+  }
+  
+  h2{
+      margin-top: 20px;
+      top: 20px;
+  }
+  
+  h1{
+      color: rgb(255, 255, 255);
+      margin-bottom: 30px;
+      font-size: 35px;
+      font-family: 'Signika Negative', sans-serif;
+      margin-top: 100px;
+     
+  }
+ 
+  @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Signika+Negative:wght@400;600;700&display=swap');
+  
+  p{
+    font-family: 'Signika Negative', sans-serif;
+      margin-bottom: 40px;
+      font-size: 16px;
+      color: white;
+    }
+    
+    #center{
+        
+        background-color: #f5f5f5;
+        max-width: 700px;
+        height: 491px;
+        margin: auto;
+        margin-top: 100px;
+    }
+
+     /*BOTAO*/   
+.input2{
+           width: 150px;
+         height: 40px;
+        border-radius: 20px;
+        border-color: white;
+         border-bottom-color: white;
+         margin-bottom: 90px;
+         background-color: transparent;
+         border: 1px solid rgb(255, 255, 255);
+         margin-left: 50px;
+         cursor: pointer;
+         color: white;  
+        }
+      
+      
+  
+  /*FINAL DA PARTE ESQUERDA DO FORMULARIO*/
+
+  /*INICIO DA PARTE DIREITA DO FORMULARIO*/
+
+  #two{
+   
+    background-color: rgb(255, 255, 255);
+    width: 390px;
+    height: 491px;
+    float: right;
+   
+
+  }
+  /*começo da label*/
+  .nomeL{
+      position: relative;
+      display: block;
+      margin-bottom: 5px;
+      
+      
+    }
+    .emailL{
+        position: relative;
+        display: block;
+        margin-bottom: 5px;
+        
+        
+        
+    }
+    .senhaL{
+        position: relative;
+        display: block;
+        margin-bottom: 5px;
+        
+        /*FINAL DA LABEL*/
+        
+    }
+
+    
+    
+    .lado{
+        color: #66CDAA;
+        margin-left: 100px;
+        margin-top: 20px;
+        
+    }
+    /*INCONES DE REGISTRO*/
+    #incones{
+        margin-left: 130px;
+    }
+    .inco{
+        width: 35px;
+        margin-right: 9px;
+        
+    }
+    
+    /*PARAGRAFO*/
+    #segundo{
+        margin-left:  75px;
+        margin-top: 10px;
+        color: black;
+        
+    }
+    
+    section{
+        margin-left: 60px;
+        }
+        
+        /* COMEÇO DOS INCONES DO INPUT*/
+
+    .nome{ 
+         
+          position: absolute;
+          display: block;
+          margin-top: 30px;
+          right:660px;
+          width: 25px;
+      
+        }
+        
+        
+        .email{
+        position: absolute;
+        display: block;
+        margin-top: 30px;
+        right: 660px;
+        width: 25px;
+    
+      }
+      .senha{
+        position: absolute;
+        display: block;
+        margin-top: 30px;
+        right: 660px;
+        width: 25px;
+       
+      }
+    
+      /*FINAL DO INCONE DO INPUT */
+        
+
+  
+  .input{
+      width: 280px;
+      height: 40px;
+      margin-bottom: 10px;
+      border: none;
+      background-color: rgba(73, 64, 64, 0.103);
+      border-radius: 3px;
+  }
+
+  /*BOTAO*/
+  .input1{
+    width: 150px;
+    height: 37px;
+     margin-top: 20px;
+     margin-left: 60px;
+     border-radius: 20px;
+     border-color: white;
+     border-bottom-color: white;
+     margin-bottom: 300px;
+     background-color: transparent;
+     border: 1px solid rgb(255, 255, 255);
+    cursor: pointer;
+      background-color: #66CDAA;
+      color: white;
+      
+  }
+    
+
+  
+  
+/*FINAL DA PARTE DIREITA DO FORMULARIO*/
+
